@@ -139,7 +139,8 @@ void vDisplayTask(){
         else if(global == 1){
             num0(255,255,0);
             vTaskDelay(pdMS_TO_TICKS(1000));
-
+            num0(0,0,0);
+            vTaskDelay(pdMS_TO_TICKS(1000));
         }
     }   
 }
@@ -184,6 +185,7 @@ void vPiscaTask(){
             vTaskDelay(pdMS_TO_TICKS(1000));
             gpio_put(vermelho, false);
             gpio_put(verde, false);
+            vTaskDelay(pdMS_TO_TICKS(1000));
         }
     }
 }
