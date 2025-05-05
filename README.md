@@ -117,7 +117,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5. Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/12uIxSjHNvvYUlo6QIuSOJo8DHYGK5s_F/view?usp=sharing)
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1SMDQ4BROlZ7glaKMfE4bK1om3EI9EbdH/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto oferece uma ótima oportunidade para consolidar conhecimentos sobre conversor FreeRTOS, manipulação de hardware,
